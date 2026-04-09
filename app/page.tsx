@@ -68,7 +68,7 @@ export default function Home() {
         {/* CTA */}
         <div className="fade-up animate-delay-7">
           <a
-            href="mailto:contato@miantelabs.com"
+            href="mailto:matheus.maiante.dev@gmail.com"
             className="btn-primary"
           >
             Entrar em contato
